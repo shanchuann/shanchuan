@@ -1,1 +1,8 @@
-好吧，总得写点什么
+#include<iostream>
+
+int main()
+{
+    std::cout << "    " << std::endl;
+    return 0;
+}
+
