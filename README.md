@@ -1,8 +1,1 @@
-#include<iostream>
-
-int main()
-{
-    std::cout << "    " << std::endl;
-    return 0;
-}
-
+As you can see,this is a passage of text.
